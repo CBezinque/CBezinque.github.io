@@ -1,0 +1,19 @@
+/*
+CSS: element, id, class
+selector{
+property:value;
+
+}
+*/
+
+body{
+background-color: lightblue
+}
+
+hi{
+text-decoration:bolded
+}
+
+#header{
+text-align:center;
+}
